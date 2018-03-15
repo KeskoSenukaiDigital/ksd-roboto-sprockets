@@ -1,0 +1,19 @@
+{
+  "name": "ksd-roboto-sprockets",
+  "version": "0.0.3",
+  "description": "Use roboto fontface with sprockets.",
+  "main": "assets/stylesheets/roboto-fontface.scss",
+  "repository": {
+    "type": "git",
+    "url": "https://bitbucket.org/pirminis/ksd-roboto-sprockets"
+  },
+  "keywords": [
+    "roboto",
+    "font",
+    "fontface",
+    "sprockets"
+  ],
+  "author": "unknown",
+  "license": "Apache-2.0",
+  "homepage": "https://bitbucket.org/pirminis/ksd-roboto-sprockets"
+}
