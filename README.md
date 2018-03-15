@@ -1,3 +1,10 @@
+# Fork
+This repository is a fork. You can find original here:
+https://github.com/jerrysdesign/roboto-fontface-pre-css
+
+yarnpkg.com:
+https://yarnpkg.com/en/package/roboto-fontface-pre-css
+
 # Roboto fontface
 
 ## Prerequisites

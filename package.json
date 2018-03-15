@@ -1,11 +1,11 @@
 {
   "name": "ksd-roboto-sprockets",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Use roboto fontface with sprockets.",
   "main": "assets/stylesheets/roboto-fontface.scss",
   "repository": {
     "type": "git",
-    "url": "https://bitbucket.org/pirminis/ksd-roboto-sprockets"
+    "url": "https://github.com/KeskoSenukaiDigital/ksd-roboto-sprockets"
   },
   "keywords": [
     "roboto",
@@ -13,7 +13,7 @@
     "fontface",
     "sprockets"
   ],
-  "author": "unknown",
+  "author": "JJ Hung <jerry@junnnnj.com> (http://junnnnj.com/)",
   "license": "Apache-2.0",
-  "homepage": "https://bitbucket.org/pirminis/ksd-roboto-sprockets"
+  "homepage": "https://github.com/KeskoSenukaiDigital/ksd-roboto-sprockets"
 }
