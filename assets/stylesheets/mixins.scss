@@ -1,4 +1,5 @@
 $roboto-font-path: '../../fonts' !default;
+$roboto-font-display: auto !default;
 
 @mixin roboto-font($type, $weight, $style) {
     @font-face {
@@ -13,6 +14,7 @@ $roboto-font-path: '../../fonts' !default;
              asset-url("#{$roboto-font-path}/Roboto-#{$type}.svg#Roboto") format('svg');
         font-weight: $weight;
         font-style: $style;
+        font-display: $roboto-font-display;
     }
 
     @font-face {
@@ -25,6 +27,7 @@ $roboto-font-path: '../../fonts' !default;
              asset-url("#{$roboto-font-path}/Roboto-#{$type}.woff") format('woff'),
              asset-url("#{$roboto-font-path}/Roboto-#{$type}.ttf") format('truetype'),
              asset-url("#{$roboto-font-path}/Roboto-#{$type}.svg#Roboto") format('svg');
+        font-display: $roboto-font-display;
     }
 }
 
