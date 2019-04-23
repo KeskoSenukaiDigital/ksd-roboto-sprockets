@@ -1,6 +1,6 @@
 {
   "name": "ksd-roboto-sprockets",
-  "version": "0.0.5",
+  "version": "0.1.0",
   "description": "Use roboto fontface with sprockets.",
   "main": "assets/stylesheets/roboto-fontface.scss",
   "repository": {
