@@ -32,4 +32,10 @@ config.assets.paths << Rails.root.join('node_modules')
 config.assets.precompile += %w(.svg .eot .woff .ttf)
 ```
 
+## Variables
+
+### $roboto-font-display
+
+Sets `font-display` property, default: `auto`.
+
 That is it ⚙️
